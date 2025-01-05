@@ -7,3 +7,5 @@ script for fun, not to gain massive advantages (couldnt be any of the scripts I 
 ^^ you dont have to listen to the line above, I dont care ^^
 
 Paid scripts are not out yet but will be fully custom made to your liking!
+
+3RD OPTION TO GET SCRIPTS, PRESS THE .LUA FILE YOU WANT AND COPY FROM THAT (EASIEST METHOD)
